@@ -138,11 +138,12 @@ marquee {
                 <h2>HTML5 Features</h2>
                 <article>
                     <h3>Video Example</h3>
-                    <iframe width="560" height="315" src="(https://www.youtube.com/watch?v=sjkrrmBnpGE)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=sjkrrmBnpGE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </article>
             </section>
         </main>
     </div>
 </body>
 </html>
+
 
